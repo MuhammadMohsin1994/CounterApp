@@ -5,6 +5,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: rgba(12, 191, 236, 0.774);
 }
 
 #showCounter {
