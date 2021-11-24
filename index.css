@@ -29,7 +29,11 @@
 .gradient-button-4 {background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%)}
 .gradient-button-4:hover { background-position: right center; }
 
+.input {
+    text-align: center;
+}
 input{
+    
     color:#ff0000;
     font: 1em/1.25em Arial, Helvetica, sans-serif;
 }
